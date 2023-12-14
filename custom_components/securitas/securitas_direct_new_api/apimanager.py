@@ -71,6 +71,7 @@ class ApiManager:
             "User-Agent": "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.41",
             "X-APOLLO-OPERATION-ID": self.apollo_operation_id,
             "X-APOLLO-OPERATION-NAME": operation,
+            "x-installationNumber": "1467984"
             "extension": '{"mode":"full"}',
         }
 
